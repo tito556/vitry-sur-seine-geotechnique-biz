@@ -1,0 +1,43 @@
+# Geotechnique — Vitry-sur-Seine
+
+> Geotechnical engineering services in Vitry-sur-Seine, France.
+
+## Services
+- [Amelioration Sols](https://vitry-sur-seine.geotechnique.biz/amelioration-sols/)
+- [Ancrages](https://vitry-sur-seine.geotechnique.biz/ancrages/)
+- [Chaussee Rigide](https://vitry-sur-seine.geotechnique.biz/chaussee-rigide/)
+- [Chaussee Souple](https://vitry-sur-seine.geotechnique.biz/chaussee-souple/)
+- [Colonnes Ballastees](https://vitry-sur-seine.geotechnique.biz/colonnes-ballastees/)
+- [Densite Cone Sable](https://vitry-sur-seine.geotechnique.biz/densite-cone-sable/)
+- [Essai Plaque Charge](https://vitry-sur-seine.geotechnique.biz/essai-plaque-charge/)
+- [Excavations](https://vitry-sur-seine.geotechnique.biz/excavations/)
+- [Excavations Profondes](https://vitry-sur-seine.geotechnique.biz/excavations-profondes/)
+- [Fondations](https://vitry-sur-seine.geotechnique.biz/fondations/)
+- [Geophysique](https://vitry-sur-seine.geotechnique.biz/geophysique/)
+- [Geotechnique Routiere](https://vitry-sur-seine.geotechnique.biz/geotechnique-routiere/)
+- [Granulometrie](https://vitry-sur-seine.geotechnique.biz/granulometrie/)
+- [Injections](https://vitry-sur-seine.geotechnique.biz/injections/)
+- [Investigation](https://vitry-sur-seine.geotechnique.biz/investigation/)
+- [Isolation Sismique](https://vitry-sur-seine.geotechnique.biz/isolation-sismique/)
+- [Labo In Situ](https://vitry-sur-seine.geotechnique.biz/labo-in-situ/)
+- [Laboratoire](https://vitry-sur-seine.geotechnique.biz/laboratoire/)
+- [Liquefaction](https://vitry-sur-seine.geotechnique.biz/liquefaction/)
+- [Masw](https://vitry-sur-seine.geotechnique.biz/masw/)
+- [Microzonage Sismique](https://vitry-sur-seine.geotechnique.biz/microzonage-sismique/)
+- [Murs Soutenement](https://vitry-sur-seine.geotechnique.biz/murs-soutenement/)
+- [Permeabilite In Situ](https://vitry-sur-seine.geotechnique.biz/permeabilite-in-situ/)
+- [Pieux](https://vitry-sur-seine.geotechnique.biz/pieux/)
+- [Puits Inspection](https://vitry-sur-seine.geotechnique.biz/puits-inspection/)
+- [Radiers](https://vitry-sur-seine.geotechnique.biz/radiers/)
+- [Resistivite](https://vitry-sur-seine.geotechnique.biz/resistivite/)
+- [Sismique](https://vitry-sur-seine.geotechnique.biz/sismique/)
+- [Surveillance Excavations](https://vitry-sur-seine.geotechnique.biz/surveillance-excavations/)
+- [Talus](https://vitry-sur-seine.geotechnique.biz/talus/)
+- [Tunnels Sol Mou](https://vitry-sur-seine.geotechnique.biz/tunnels-sol-mou/)
+
+## Contact
+- Website: https://vitry-sur-seine.geotechnique.biz/
+
+## About
+This site provides geotechnical engineering services in Vitry-sur-Seine, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
